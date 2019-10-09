@@ -1,6 +1,6 @@
 # Milad Farazian's Website
 
-Words and words
+My [resume](https://docs.google.com/document/d/1p474sdAON1tfqdGxyFfusTNH5vFrEVkUvcrE1IBzeeA/edit?usp=sharing)
 
 ## About me
 
