@@ -28,16 +28,16 @@ Worked in connection with the American Cancer Association. Planned the Relay for
 
 #### “Katsuya’s Revenge” GUI-based Java Platformer - Role: Level Designer
 ##### FINISHED JUNE 2018 (WITH KOBE SHAVOLIAN & KEON ETEBARI)
--I worked with object-oriented programming, in Java, to create GameObjects, such as platforms and enemies, and assign various sources images to GameObjects.
+- I worked with object-oriented programming, in Java, to create GameObjects, such as platforms and enemies, and assign various sources images to GameObjects.
 
 #### “Diridon” Bringing Music & Mood Together - Role: Main Programmer
 ##### FINISHED DECEMBER 2018
--Made a GUI-based java program that suggests songs on a playlist based on your current mood
+- Made a GUI-based java program that suggests songs on a playlist based on your current mood
 
 #### “What the Slug is Going On? - Role: Backend Java Developer and Brand Manager
 ##### FINISHED FEBRUARY 2019 (WITH VENAY VENKAT)
--Utilized JavaScript, Java, and Google Cloud APIs to create an event Web app for UCSC
--Was created at CruzHacks 2019; WINNERS MLH-Best Domain Name from Domain.com
+- Utilized JavaScript, Java, and Google Cloud APIs to create an event Web app for UCSC
+- Was created at CruzHacks 2019; WINNERS MLH-Best Domain Name from Domain.com
 
 
 
