@@ -30,7 +30,8 @@ Worked in connection with the American Cancer Association. Planned the Relay for
 ##### FINISHED JUNE 2018 (WITH KOBE SHAVOLIAN & KEON ETEBARI)
 - I worked with object-oriented programming, in Java, to create GameObjects, such as platforms and enemies, and assign various sources images to GameObjects.
 
-Katsuya's Revenge Game Trailer (w/ Music by BUC NA$TY,add on [Spotify](https://open.spotify.com/artist/2r1PuhWizSAmmfLPxPWyjV) )
+Katsuya's Revenge Game Trailer (w/ Music by BUC NA$TY, add on [Spotify](https://open.spotify.com/artist/2r1PuhWizSAmmfLPxPWyjV) )
+
 [Video Link](https://www.youtube.com/watch?v=6qD95zVWEeU&t=2s)
 
 #### “Diridon” Bringing Music & Mood Together - Role: Main Programmer
