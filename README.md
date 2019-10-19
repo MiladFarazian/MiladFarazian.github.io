@@ -8,7 +8,7 @@ My formal resume is [here](https://docs.google.com/document/d/1p474sdAON1tfqdGxy
 ##### SUMMER OF 2019
 Lead instruction in basic Java coding for teenagers
 - I worked on my explaining of crucial concepts of programming (i.e. nested loops, try-catch, and sorting) to large groups of people at various experience levels; They were usually beginners
-- [Photos at iDtech Summer '19 @UCLA](https://photos.idtech.com/IDTC/UCLA/2019)
+- [Photos of iDtech Summer '19 @UCLA](https://photos.idtech.com/IDTC/UCLA/2019)
 
 #### Sierra Canyon Day Camp, Chatsworth CA - Counselor
 ##### SUMMER OF 2015, 2016, 2017, 2019
@@ -35,6 +35,7 @@ Worked in connection with the American Cancer Association. Planned the Relay for
 #### “Diridon” Bringing Music & Mood Together - Role: Main Programmer
 ##### FINISHED DECEMBER 2018
 - Made a GUI-based java program that suggests songs on a playlist based on your current mood
+- [Code on GitHub](https://github.com/MiladFarazian/Diridon)
 
 #### “What the Slug is Going On? - Role: Backend Java Developer and Brand Manager
 ##### FINISHED FEBRUARY 2019 (WITH VENAY VENKAT)
