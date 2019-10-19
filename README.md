@@ -13,7 +13,7 @@ Lead instruction in basic Java coding for teenagers
 #### Sierra Canyon Day Camp, Chatsworth CA - Counselor
 ##### SUMMER OF 2015, 2016, 2017, 2019
 Entertained large groups of children and learned how to address behavioral issues to promote healthy growth and development.
-- I was thrown into an environment that forced me to think fast. I became a catalyst for exciting days on the waterslide or going around on Go-karts, but I also accounted for safety and liability. I developed great communication skills with my Directors and Co-staff
+- I was thrown into an environment that forced me to think fast. I became a catalyst for exciting days on the waterslide or going around on Go-karts, but I also made sure everyone was safe. I developed great communication skills with my Directors and Co-staff
 
 #### American Cancer Association Relay for Life, West Hills CA - Stage Event Organizer
 ##### SEPTEMBER 2016 - JUNE 2018
