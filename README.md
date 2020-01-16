@@ -1,7 +1,7 @@
 # Milad Farazian's Website
 
 ## Resume
-My formal resume is [here](https://docs.google.com/document/d/1p474sdAON1tfqdGxyFfusTNH5vFrEVkUvcrE1IBzeeA/edit?usp=sharing "Milad's Resume")
+My formal resume is [here](https://docs.google.com/document/d/1PlrBmx3iSDA_0UMYeu3fLWZFbyO8bnLTMI7MHXG2Duc/edit?usp=sharing "Milad's Resume")
 
 ### Experience
 #### iDtech Technology Camp, Westwood CA (UCLA Campus)  - Instructor
